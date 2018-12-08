@@ -1,4 +1,4 @@
-## Welcome to the CS: GO configs of WarDuck.
+## Welcome to the CS: GO configs of Puffy Owl (with keys for Danger Zone).
 
 > **Instructions:**
 >
@@ -9,4 +9,9 @@
 > - *Paste this: exec "mycfg/autoexec.cfg"*
 >
 > - *Save file*
-# csgo_mycfg
+>
+> - *Put the folder 'mycfg' into your ../cfg folder*
+>
+> - *Restart your game or run 'exec autoexec' in your console*
+
+*Last updated on 8.12.2018*
